@@ -1,5 +1,6 @@
-transformers
-datasets
+streamlit
+requests
+pandas
+plotly
 torch
-scikit-learn
-flask
+transformers
